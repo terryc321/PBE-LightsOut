@@ -4,8 +4,6 @@ this has the best comment
 and this is a second comment
 
 this is a third comment
-
-this is a fourth comment from emacs lisp 
 "
 Class {
 	#name : 'LightsOutGame',
