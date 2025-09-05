@@ -4,6 +4,10 @@ this has the best comment
 and this is a second comment
 
 this is a third comment
+
+do not edit any of this from outside of pharo or pharo will fall over
+kinda makes wonder how do you keep up to date if somebody merges their changes to github ?
+
 "
 Class {
 	#name : 'LightsOutGame',
