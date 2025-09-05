@@ -1,3 +1,6 @@
+"
+this has the best comment
+"
 Class {
 	#name : 'LightsOutGame',
 	#superclass : 'BorderedMorph',
