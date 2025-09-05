@@ -3,6 +3,7 @@ this has the best comment
 
 and this is a second comment
 
+this is a third comment
 "
 Class {
 	#name : 'LightsOutGame',
