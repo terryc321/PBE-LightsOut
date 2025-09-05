@@ -1,5 +1,8 @@
 "
 this has the best comment
+
+and this is a second comment
+
 "
 Class {
 	#name : 'LightsOutGame',
